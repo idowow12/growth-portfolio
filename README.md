@@ -1,5 +1,7 @@
 # Ido Katz
 
+**Full portfolio with real campaigns, numbers and 35+ ads: https://idowow12.github.io/growth-portfolio/**
+
 **Performance creative strategist and DTC growth marketer. Meta and TikTok, UGC at scale, AI-native creative.**
 
 6+ years turning creative volume into profitable growth for e-commerce and D2C brands. Well over $500K in paid media managed, up to $40K/month on a single account, and a creator pipeline that sources UGC at $18-20 per video.
