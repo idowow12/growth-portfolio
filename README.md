@@ -1,48 +1,63 @@
-# Ido Katz · Performance Marketing & E-commerce Growth
+# Ido Katz
 
-Performance marketer and builder. 6+ years running Meta and TikTok for e-commerce and D2C brands, plus the
-systems around the ads: creator pipelines, lead routing, sales desks and AI agents.
+**Performance creative strategist and DTC growth marketer. Meta and TikTok, UGC at scale, AI-native creative.**
 
-EU citizen (Polish passport) and Israeli citizen. Remote from anywhere, or on-site in Israel / the EU.
-
-**Contact:** idokatzbm@gmail.com · +972 54-664-8436
-
----
+6+ years turning creative volume into profitable growth for e-commerce and D2C brands. Well over $500K in paid media managed, up to $40K/month on a single account, and a creator pipeline that sources UGC at $18-20 per video.
 
 ## Results
 
-| | |
+| Result | Detail |
 |---|---|
-| D2C launch, built solo | EUR 19K in 2.5 days, EUR 82K+ gross at ~40% margin, under $8K media (TikTok-led) |
-| Saphira Hair (US consumer brand), sole marketer | $30-40K/month Meta spend, CAC cut ~50%, CRM and email built from scratch |
-| Phone-sales desk | $165K in 3 months on 11,700+ leads at EUR 1.01 to $1.44 CPL, 10-agent team |
-| Client campaigns (incl. Isrotel, Achim Limor) | Up to $27K/month at ~2.5 ROAS |
-| Offer design | Nearly doubled AOV to ~$125 |
-| Exit | Built and sold a Shopify cosmetic oral-care brand |
+| **$500K+** managed | Saphira Hair alone: ~$500K, $30-40K/month for 16 months |
+| **CAC cut ~50%** | Sole marketer at Saphira Hair, a US consumer brand doing $1M+/month |
+| **EUR 82K+ gross** | Own D2C launch: EUR 19K in 2.5 days, ~40% margin, under $8K media, TikTok-led |
+| **$165K in 3 months** | Phone-sales desk on 11,700+ leads at EUR 1.01 to $1.44 CPL |
+| **~2.5 ROAS** | Client accounts up to $27K/month |
+| **AOV nearly doubled** | Offer redesign that lifted AOV to ~$125 |
+| **Built and sold** | A Shopify cosmetic oral-care brand |
+| **$100K+ in one month** | Personally scripted and briefed an ad that spent $100K+ in a single month |
 
-## How I work
+## Explore
 
-**UGC factory.** Recruit creators through gifting at $18-20 per video, in waves of hundreds of videos.
-Every video becomes an ad test; the top 5-10% get scaled and briefed into the next wave. Creative volume is
-the lever, not targeting.
+**Case studies**
+- [Saphira Hair: Meta at $30-40K/month, CAC cut ~50%](case-studies/saphira-hair.md)
+- [D2C launch: EUR 19K in 2.5 days, TikTok-led](case-studies/d2c-launch-tiktok.md)
+- [Shopify oral-care brand: built and sold](case-studies/oral-care-brand-exit.md)
+- [Phone-sales desk: $165K in 3 months](case-studies/phone-sales-desk.md)
+- [Offer design: AOV nearly doubled to ~$125](case-studies/offer-aov.md)
+- [Client accounts up to $27K/month at ~2.5 ROAS](case-studies/client-accounts.md)
 
-**AI-native creative.** Higgsfield, Kling and Nano Banana for concepts, hooks and variations, so a winning
-angle gets 20 iterations in a day instead of a week.
+**Process** (how the creative system runs)
+- [The UGC factory](process/ugc-factory.md)
+- [Testing and kill rules](process/testing-and-kill-rules.md)
+- [Iterating winners](process/iterating-winners.md)
+- [Briefing 15+ ads a week](process/briefing-15-ads-a-week.md)
 
-**Measurement that keeps you honest.** CAC and contribution margin per angle, not platform ROAS alone.
-Pixel and CAPI events fire only for qualified leads, so the algorithm optimises for revenue, not volume.
+**Samples** (clearly labeled examples and templates, not past client work)
+- [One-page ad brief, filled for a hypothetical pet product](samples/ad-brief-template.md)
+- [Hook bank: 20 hooks by angle and awareness level](samples/hook-bank.md)
+- [Long-form VSL outline](samples/vsl-outline.md)
+- [UGC creator brief](samples/ugc-creator-brief.md)
 
-## Things I built (no code published, client data is private)
+## What I do
 
-- **WhatsApp AI sales agent** (Green API, Railway): answers inbound leads in seconds, qualifies them and books calls.
-- **Lead-management and call-routing tools**: a sales-desk system with lead routing, dialer integration and
-  per-agent tracking, used to run the 10-agent desk above.
-- **Lead-generation stack for service businesses**: landing pages, SMS follow-up, booking and reporting,
-  running on its own server.
-- **This job search** is run by an agent I built: it finds roles, researches each company, writes a tailored
-  application and books interviews into my calendar.
+- **Creative strategy:** angles, hooks and offers built from customer language, then tested in volume.
+- **UGC programs:** recruit, brief and scale creators. Gift, test, and scale the top 5-10%.
+- **AI-native creative:** Higgsfield, Kling and Nano Banana to widen concepts and variations fast.
+- **Media buying:** Meta and TikTok, with CAC and margin as the scoreboard.
+- **Scripts:** short ad scripts and long-form VSLs.
+- **Lifecycle and sales ops:** CRM and email builds, a WhatsApp AI sales agent (Green API, Railway), lead-management tools.
 
-## Education
+## Background
 
-- GR Tech Digital Marketing Program (Reichman University & Google)
-- TikTok Blueprint certification
+- Digital Marketing Associate (sole marketer), Saphira Hair, Sep 2023 to Dec 2024
+- Founder and Growth Lead, Katz Ecommerce / LeadsUp, Jun 2020 to present (clients include Isrotel and Achim Limor)
+- GR Tech Digital Marketing Program (Reichman University and Google)
+- TikTok Blueprint certified
+- Languages: native Hebrew, fluent English
+
+## Contact
+
+idokatzbm@gmail.com
+
+Remote from Israel (UTC+2), working with US, UK, EU and AU teams. EU citizen (Polish passport) and Israeli citizen, so no visa sponsorship needed in the EU. Open to on-site or hybrid in Israel and the EU. Also open to creator, influencer and UGC program management roles.
